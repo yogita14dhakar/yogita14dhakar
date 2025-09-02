@@ -1,9 +1,9 @@
 - 👋 Hi, I’m **@yogita14dhakar**
-- 👀 I’m interested in **coding and learning new technologies**
-- 🌱 I’m currently exploring **mern stack**
+- 👀 I’m interested in **exploring and learning new technologies**
+- 🌱 I’m currently working on **Personal Projects**
 - 📫 How to reach me yogitadhakar5@gmail.com
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: I'm a bsc(cs)hons. 4th year student
+- ⚡ Recent Graduate in Bachelor's of Science 
 
 <!---
 yogita14dhakar/yogita14dhakar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
