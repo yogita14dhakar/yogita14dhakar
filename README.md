@@ -8,7 +8,7 @@
 
 ---
 
-Hello — I’m Yogita. I’m currently pursuing an MSc and actively building strong foundations in software engineering and AI/ML through hands-on projects and open-source contributions. I focus on practical learning: shipping small, meaningful apps, improving engineering practices (testing, CI/CD, deployments), and experimenting with models and data. Ambitious, dependable, and always curious — I aim to turn learning into polished, real-world code.
+Hello — I’m Yogita. I had completed MSc(2026) in computer science and actively building strong foundations in software engineering and AI/ML through hands-on projects and open-source contributions. I focus on practical learning: shipping small, meaningful apps, improving engineering practices (testing, CI/CD, deployments), and experimenting with models and data. Ambitious, dependable, and always curious — I aim to turn learning into polished, real-world code.
 
 ---
 
@@ -24,19 +24,21 @@ Hello — I’m Yogita. I’m currently pursuing an MSc and actively building st
 - Languages: JavaScript / TypeScript • Python • Java  
 - Frameworks & Tools: React • EJS • Tailwind • Bootstrap • Node.js • Express • FastAPI • REST APIs • Docker • Kubernetes • Git  
 - Databases & DevOps: MongoDB • MySQL • PostgreSQL • Redis • CI/CD (GitHub Actions)  
-- Testing & Quality: Jest • Cypress • ESLint • Prettier
+- Testing & Quality: Jest • ESLint • Prettier
 
 ---
 
 ## 🌟 Selected Projects
 
 ### Destination — Short-term rental / listings platform
-An Airbnb-like app where hosts can list places and guests can book them. Includes authentication & authorization, full CRUD for listings, booking flows, and review functionality.
+An app where hosts can list places and guests can book them. Includes authentication & authorization, full CRUD for listings, booking flows, and review functionality.
 
 - Repo: [yogita14dhakar/Destination](https://github.com/yogita14dhakar/Destination)  
 - Tech: JavaScript • EJS • CSS • MongoDB • Node.js • Bootstrap
 
-![Destination - Home (placeholder)](assets)
+<a href="url"><img src="https://github.com/user-attachments/assets/6bcc5d34-3c41-406f-9ef9-93b16e94ce0e" height="50%" width="50%" ></a>
+<a href="url"><img src="https://github.com/user-attachments/assets/ab20361b-3004-484d-956f-71b13cdb7309" height="50%" width="50%" ></a>
+
 *Destination — listings & search view (placeholder)*
 
 ---
@@ -86,6 +88,6 @@ Open to work · Open to freelance · Open to contributing on beginner-friendly o
 
 ## ⚡ Fun facts
 - I enjoy exploring AI ideas and applying them to everyday problems.  
-- Study fuel: chai + instrumental music + a whiteboard for architecture sketches ☕️
+- Study fuel: idea + music + a whiteboard for architecture sketches ☕️
 
 ---
